@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ma-chartreuse-conciergerie.fr/</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/proprietaires.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/voyageurs.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/contact.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/mentions-legales.html</loc><priority>0.3</priority></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/politique-confidentialite.html</loc><priority>0.3</priority></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/cgv.html</loc><priority>0.3</priority></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/cookies.html</loc><priority>0.3</priority></url>
+  <url><loc>https://ma-chartreuse-conciergerie.fr/conditions-utilisation.html</loc><priority>0.3</priority></url>
+</urlset>
