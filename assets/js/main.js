@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const fadeEls = document.querySelectorAll(
       ".section-head, .feature-item, .card, .split > *, " +
       ".cta-bar, .photo-strip__grid img, .signatures-display img, " +
-      ".stat-item, .founder-quote, .page-hero .container > *"
+      ".stat-item, .founder-quote, .testimonial, .page-hero .container > *"
     );
 
     fadeEls.forEach((el, i) => {
